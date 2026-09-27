@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fontom-ai.github.io/pc-price-watch/sitemap.xml
